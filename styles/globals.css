@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.heading {
+  color: green;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
